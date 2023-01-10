@@ -1,6 +1,5 @@
 package com.lucas.helpdesk.domain.enums;
 
-import java.util.Iterator;
 
 public enum Perfil {
 	
